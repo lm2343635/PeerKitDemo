@@ -207,6 +207,7 @@
 				TargetAttributes = {
 					E47FE7DB1DF52FF500EFE4C4 = {
 						CreatedOnToolsVersion = 8.1;
+						DevelopmentTeam = 6ANM44X2CJ;
 						ProvisioningStyle = Automatic;
 					};
 					E47FE7F41DF52FF500EFE4C4 = {
@@ -424,6 +425,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 6ANM44X2CJ;
 				INFOPLIST_FILE = PeerKitDemo/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = pw.fczm.app.PeerKitDemo;
@@ -435,6 +437,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 6ANM44X2CJ;
 				INFOPLIST_FILE = PeerKitDemo/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = pw.fczm.app.PeerKitDemo;
